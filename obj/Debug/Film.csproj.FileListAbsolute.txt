@@ -1,0 +1,16 @@
+C:\Users\TUĞÇE\source\repos\Film\Film\bin\Debug\Film.exe.config
+C:\Users\TUĞÇE\source\repos\Film\Film\bin\Debug\Film.exe
+C:\Users\TUĞÇE\source\repos\Film\Film\bin\Debug\Film.pdb
+C:\Users\TUĞÇE\source\repos\Film\Film\obj\Debug\Film.csproj.AssemblyReference.cache
+C:\Users\TUĞÇE\source\repos\Film\Film\obj\Debug\Film.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUĞÇE\source\repos\Film\Film\obj\Debug\Film.Form1.resources
+C:\Users\TUĞÇE\source\repos\Film\Film\obj\Debug\Film.Properties.Resources.resources
+C:\Users\TUĞÇE\source\repos\Film\Film\obj\Debug\Film.csproj.GenerateResource.cache
+C:\Users\TUĞÇE\source\repos\Film\Film\obj\Debug\Film.csproj.CoreCompileInputs.cache
+C:\Users\TUĞÇE\source\repos\Film\Film\obj\Debug\Film.exe
+C:\Users\TUĞÇE\source\repos\Film\Film\obj\Debug\Film.pdb
+C:\Users\TUĞÇE\source\repos\Film\Film\bin\Debug\Interop.WMPLib.dll
+C:\Users\TUĞÇE\source\repos\Film\Film\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\TUĞÇE\source\repos\Film\Film\obj\Debug\Interop.WMPLib.dll
+C:\Users\TUĞÇE\source\repos\Film\Film\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\TUĞÇE\source\repos\Film\Film\obj\Debug\Film.csproj.ResolveComReference.cache
